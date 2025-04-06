@@ -8845,11 +8845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Downloads\\wetransfer_rent-a-car_2025-04-04_1135\\Rent a car\\Rent a car\\Rent a car\\Rent a car\\Rent a car.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Rent a car\\Rent a car\\Rent a car\\Rent a car\\Rent a car.csproj",
       "projectName": "Rent a car",
-      "projectPath": "D:\\Downloads\\wetransfer_rent-a-car_2025-04-04_1135\\Rent a car\\Rent a car\\Rent a car\\Rent a car\\Rent a car.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Rent a car\\Rent a car\\Rent a car\\Rent a car\\Rent a car.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Downloads\\wetransfer_rent-a-car_2025-04-04_1135\\Rent a car\\Rent a car\\Rent a car\\Rent a car\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Rent a car\\Rent a car\\Rent a car\\Rent a car\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -47,6 +47,26 @@ namespace Rent_a_car.Areas.Identity.Pages.Account
         {
             [Required]
             [EmailAddress]
+            [Display(Name = "First name")]
+            public string FirstName { get; set; }
+
+            [Required]
+            [EmailAddress]
+            [Display(Name = "Last name")]
+            public string LastName { get; set; }
+
+            [Required]
+            [EmailAddress]
+            [Display(Name = "EGN")]
+            public string EGN{ get; set; }
+
+            [Required]
+            [EmailAddress]
+            [Display(Name = "GSM")]
+            public string GSM { get; set; }
+
+            [Required]
+            [EmailAddress]
             [Display(Name = "Email")]
             public string Email { get; set; }
 
